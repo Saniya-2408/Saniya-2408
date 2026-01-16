@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saniya Anjum Siddiqui</h1>
 <h3 align="center">A passionate software developer turning ideas into code. 🌱 Learning, building, and growing with code</h3>
-
+<img alight="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/thumb/female-web-developer-animation-gif-download-7016684.mp4">
 - 🔭 I’m currently working on **ProNet – AI-Powered Professional Networking Platform**
 
 - 🌱 I’m currently learning **React.js**
