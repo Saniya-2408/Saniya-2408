@@ -1,8 +1,17 @@
-<!-- ===================== CUSTOM WELCOMING BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Welcome%20to%20My%20GitHub!%20👋&fontSize=40&fontAlignY=35&desc=I'm%20Saniya%20Anjum%20Siddiqui%20•%20Building%20the%20future%20one%20line%20of%20code%20at%20a%20time&descAlignY=58" />
+  <img 
+    src="https://capsule-render.vercel.app/api?
+type=waving
+&color=gradient
+&height=240
+&section=header
+&text=Hey!%20Glad%20You're%20Here%20👋
+&fontSize=42
+&fontAlignY=35
+&desc=I'm%20Saniya%20Anjum%20Siddiqui%20•%20Learning%20by%20building%20•%20Growing%20with%20code
+&descAlignY=60
+" />
 </p>
-
 <!-- ===================== INTRO ===================== -->
 <h1 align="center">Hi 👋, I'm Saniya Anjum Siddiqui</h1>
 
