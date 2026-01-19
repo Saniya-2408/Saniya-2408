@@ -1,6 +1,16 @@
-<!-- ===================== CUSTOM WELCOMING BANNER ===================== -->
+<!-- ===================== URVASHI-STYLE WELCOMING BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&animation=fadeIn&text=Welcome%20to%20My%20GitHub!%20✨&fontSize=42&fontAlignY=35&desc=Saniya%20A.%20Siddiqui%20•%20Learning%20by%20building%20•%20Growing%20with%20every%20commit&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?
+type=waving
+&color=gradient
+&height=230
+&section=header
+&text=Hey%20there!%20👋
+&fontSize=44
+&fontAlignY=38
+&desc=I'm%20Saniya%20A.%20Siddiqui%20—%20learning%2C%20building%2C%20and%20growing%20with%20code
+&descAlignY=62
+&animation=fadeIn" />
 </p>
 
 <!-- ===================== INTRO ===================== -->
