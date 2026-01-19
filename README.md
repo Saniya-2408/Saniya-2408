@@ -92,14 +92,6 @@
 
 ---
 
-<!-- ===================== STREAK ===================== -->
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=saniya-2408&theme=radical" />
-</p>
-
----
 
 <!-- ===================== MOTIVATION ===================== -->
 <h3 align="center">
