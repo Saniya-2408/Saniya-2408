@@ -47,13 +47,68 @@ Learning, building, and growing with code
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Languages & Tools
 
-<!-- Animated scrolling icons -->
 <marquee behavior="scroll" direction="left" scrollamount="6">
-  <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,css,git,html,java,js,mongodb,mysql,oracle,python,react,tailwind&theme=dark" />
+
+<a href="https://aws.amazon.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=aws&theme=dark"/>
+</a>
+
+<a href="https://getbootstrap.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark"/>
+</a>
+
+<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=c&theme=dark"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://skillicons.dev/icons?i=css&theme=dark"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git&theme=dark"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://skillicons.dev/icons?i=html&theme=dark"/>
+</a>
+
+<a href="https://www.java.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=java&theme=dark"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=js&theme=dark"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+</a>
+
+<a href="https://www.oracle.com/database/" target="_blank">
+<img src="https://skillicons.dev/icons?i=oracle&theme=dark"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+</a>
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react&theme=dark"/>
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark"/>
+</a>
+
 </marquee>
 
 <p align="center">
-  <i>Modern • Animated • Responsive • Clean</i>
+  <i>Interactive • Animated • Responsive • Modern</i>
 </p>
 
 ---
@@ -73,5 +128,5 @@ Learning, building, and growing with code
 
 <!-- ===================== MOTIVATION ===================== -->
 <h3 align="center">
-“Learning to write programs stretches your mind and helps you think better.” — Bill Gates
+Code a little every day — progress adds up faster than you think.
 </h3>
