@@ -1,26 +1,13 @@
-<!-- ===================== NEON HACKER BANNER ===================== -->
+<!-- ===================== CUSTOM BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Saniya%20Anjum%20Siddiqui&fontSize=44&fontColor=00FFD1&fontAlignY=40&desc=Aspiring%20Software%20Developer%20|%20Actively%20Seeking%20Internship%20Opportunities&descAlignY=65&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Saniya%20Anjum%20Siddiqui&fontSize=38&fontAlignY=35&desc=Software%20Developer%20|%20Turning%20Ideas%20Into%20Code&descAlignY=55" />
 </p>
 
 <!-- ===================== INTRO ===================== -->
 <h1 align="center">Hi 👋, I'm Saniya Anjum Siddiqui</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Aspiring+Software+Developer;Actively+seeking+internship+opportunities;Turning+ideas+into+clean+code;Learning+every+day+with+consistency" />
-</p>
-
----
-
-<!-- ===================== QUICK ACTION BUTTONS ===================== -->
-<p align="center">
-  <a href="YOUR_RESUME_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20View%20Resume-00FFD1?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/🌍%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=A+passionate+software+developer;Turning+ideas+into+code;Learning%2C+building%2C+and+growing+with+code" />
 </p>
 
 ---
@@ -105,16 +92,16 @@
 
 ---
 
-<!-- ===================== GITHUB STREAK ===================== -->
+<!-- ===================== STREAK ===================== -->
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saniya-2408&theme=radical&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=saniya-2408&theme=radical" />
 </p>
 
 ---
 
 <!-- ===================== MOTIVATION ===================== -->
 <h3 align="center">
-Start where you are. Use what you have. Build what you can.
+Consistency beats intensity — write code, learn, repeat.
 </h3>
