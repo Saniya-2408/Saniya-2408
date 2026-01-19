@@ -1,9 +1,7 @@
-<!-- ===================== CUSTOM WELCOMING BANNER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Welcome%20to%20My%20GitHub!%20👋&fontSize=40&fontAlignY=35&desc=I'm%20Saniya•%20Building%20the%20future%20one%20line%20of%20code%20at%20a%20time&descAlignY=58" />
 </p>
 
-<!-- ===================== INTRO ===================== -->
 <h1 align="center">Hi 👋, I'm Saniya Anjum Siddiqui</h1>
 
 <p align="center">
@@ -12,7 +10,6 @@
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **ProNet – AI-Powered Professional Networking Platform**
@@ -23,7 +20,6 @@
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
 ## 🤝 Connect with Me
 
 <p align="left">
@@ -38,7 +34,6 @@
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Languages & Tools
 
 <marquee behavior="scroll" direction="left" scrollamount="6">
@@ -62,7 +57,6 @@
 
 ---
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
 ## 📌 Featured Projects
 
 <p align="center">
@@ -78,8 +72,6 @@
 </p>
 
 ---
-
-<!-- ===================== STATS ===================== -->
 ## 📊 GitHub Stats
 
 <!-- <p align="center">
@@ -92,7 +84,6 @@
 
 ---
 
-<!-- ===================== MOTIVATION ===================== -->
 <h3 align="center">
-Small steps every day lead to big results in code and in life.
+Small steps every day lead to big results in code and in life...
 </h3>
