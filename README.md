@@ -1,14 +1,14 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ===================== CUSTOM BANNER ===================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Saniya%20Anjum%20Siddiqui&fontSize=38&fontAlignY=35&desc=Software%20Developer%20|%20Turning%20Ideas%20Into%20Code&descAlignY=55" />
 </p>
 
 <!-- ===================== INTRO ===================== -->
 <h1 align="center">Hi 👋, I'm Saniya Anjum Siddiqui</h1>
-<h3 align="center">
-A passionate software developer turning ideas into code. 🌱 <br/>
-Learning, building, and growing with code
-</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=A+passionate+software+developer;Turning+ideas+into+code;Learning%2C+building%2C+and+growing+with+code" />
+</p>
 
 ---
 
@@ -28,17 +28,11 @@ Learning, building, and growing with code
 
 <p align="left">
   <a href="https://www.linkedin.com/in/saniya-anjum-siddiqui-b77143343/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn"
-      height="42"
-      width="42" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="42" width="42" />
   </a>
 
   <a href="mailto:saniyaanjum2408@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
-      alt="Gmail"
-      height="42"
-      width="42" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="42" width="42" />
   </a>
 </p>
 
@@ -49,66 +43,38 @@ Learning, building, and growing with code
 
 <marquee behavior="scroll" direction="left" scrollamount="6">
 
-<a href="https://aws.amazon.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=aws&theme=dark"/>
-</a>
-
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark"/>
-</a>
-
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=c&theme=dark"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://skillicons.dev/icons?i=css&theme=dark"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git&theme=dark"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://skillicons.dev/icons?i=html&theme=dark"/>
-</a>
-
-<a href="https://www.java.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=java&theme=dark"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://skillicons.dev/icons?i=js&theme=dark"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
-</a>
-
-<a href="https://www.oracle.com/database/" target="_blank">
-<img src="https://skillicons.dev/icons?i=oracle&theme=dark"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-</a>
-
-<a href="https://react.dev/" target="_blank">
-<img src="https://skillicons.dev/icons?i=react&theme=dark"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=tailwind&theme=dark"/>
-</a>
+<a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=dark"/></a>
+<a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark"/></a>
+<a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c&theme=dark"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark"/></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark"/></a>
+<a href="https://www.oracle.com/database/" target="_blank"><img src="https://skillicons.dev/icons?i=oracle&theme=dark"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark"/></a>
+<a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark"/></a>
 
 </marquee>
 
+---
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
+## 📌 Featured Projects
+
 <p align="center">
-  <i>Interactive • Animated • Responsive • Modern</i>
+
+<a href="https://github.com/Saniya-2408/Decision-Garden">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saniya-2408&repo=Decision-Garden&theme=radical" />
+</a>
+
+<a href="https://github.com/Saniya-2408/Decision-Garden-Planner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saniya-2408&repo=Decision-Garden-Planner&theme=radical" />
+</a>
+
 </p>
 
 ---
@@ -117,16 +83,25 @@ Learning, building, and growing with code
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saniya-2408&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saniya-2408&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saniya-2408&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saniya-2408&layout=compact&theme=radical" />
+</p>
+
+---
+
+<!-- ===================== STREAK ===================== -->
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saniya-2408&theme=radical" />
 </p>
 
 ---
 
 <!-- ===================== MOTIVATION ===================== -->
 <h3 align="center">
-Code a little every day — progress adds up faster than you think.
+Consistency beats intensity — write code, learn, repeat.
 </h3>
