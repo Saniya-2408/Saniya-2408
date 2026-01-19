@@ -1,13 +1,13 @@
-<!-- ===================== CUSTOM BANNER ===================== -->
+<!-- ===================== CUSTOM WELCOMING BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Saniya%20Anjum%20Siddiqui&fontSize=38&fontAlignY=35&desc=Software%20Developer%20|%20Turning%20Ideas%20Into%20Code&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Welcome%20to%20My%20GitHub!%20👋&fontSize=40&fontAlignY=35&desc=I'm%20Saniya%20Anjum%20Siddiqui%20•%20Building%20the%20future%20one%20line%20of%20code%20at%20a%20time&descAlignY=58" />
 </p>
 
 <!-- ===================== INTRO ===================== -->
 <h1 align="center">Hi 👋, I'm Saniya Anjum Siddiqui</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=A+passionate+software+developer;Turning+ideas+into+code;Learning%2C+building%2C+and+growing+with+code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=A+passionate+problem+solver;Turning+ideas+into+reliable+solutions;Learning%2C+building%2C+and+growing+with+code" />
 </p>
 
 ---
@@ -103,5 +103,5 @@
 
 <!-- ===================== MOTIVATION ===================== -->
 <h3 align="center">
-Consistency beats intensity — write code, learn, repeat.
+Small steps every day lead to big results in code and in life.
 </h3>
