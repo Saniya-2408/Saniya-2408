@@ -103,5 +103,5 @@
 
 <!-- ===================== MOTIVATION ===================== -->
 <h3 align="center">
-Consistency beats intensity — write code, learn, repeat.
+Code a little every day — progress adds up faster than you think..
 </h3>
