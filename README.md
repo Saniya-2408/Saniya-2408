@@ -1,13 +1,13 @@
-<!-- ===================== CUSTOM BANNER ===================== -->
+<!-- ===================== EYE-CATCHING BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Saniya%20Anjum%20Siddiqui&fontSize=38&fontAlignY=35&desc=Software%20Developer%20|%20Turning%20Ideas%20Into%20Code&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=260&section=header&text=Saniya%20Anjum%20Siddiqui&fontSize=42&fontAlignY=40&desc=Passionate%20Software%20Developer%20•%20Turning%20Ideas%20Into%20Code&descAlignY=62&animation=fadeIn" />
 </p>
 
 <!-- ===================== INTRO ===================== -->
 <h1 align="center">Hi 👋, I'm Saniya Anjum Siddiqui</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=A+passionate+software+developer;Turning+ideas+into+code;Learning%2C+building%2C+and+growing+with+code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=A+passionate+software+developer;Turning+ideas+into+code;Learning%2C+building%2C+and+growing+with+code;Consistency+over+perfection" />
 </p>
 
 ---
@@ -92,16 +92,16 @@
 
 ---
 
-<!-- ===================== STREAK ===================== -->
+<!-- ===================== GITHUB STREAK ===================== -->
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saniya-2408&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=saniya-2408&theme=radical&border_radius=10" />
 </p>
 
 ---
 
 <!-- ===================== MOTIVATION ===================== -->
 <h3 align="center">
-Code a little every day — progress adds up faster than you think..
+Write code. Make mistakes. Learn fast. Repeat.
 </h3>
