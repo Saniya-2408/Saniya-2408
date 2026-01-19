@@ -1,22 +1,102 @@
-<h1 align="center">Hi 👋, I'm Saniya Anjum Siddiqui</h1>
-<h3 align="center">A passionate software developer turning ideas into code. 🌱 Learning, building, and growing with code</h3>
-<img alight="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/thumb/female-web-developer-animation-gif-download-7016684.mp4">
-- 🔭 I’m currently working on **ProNet – AI-Powered Professional Networking Platform**
+<!-- TITLE & BADGES -->
+<div align="center">
 
-- 🌱 I’m currently learning **React.js**
+# 👋 Hi, I'm **Saniya Anjum Siddiqui**
+### MCA Student | Software Developer in Progress ✨  
+Turning logic into clean, scalable code.  
 
-- 💬 Ask me about **HTML,CSS,JavaScript**
+<!-- Socials & Connect -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saniya-anjum-siddiqui-b77143343)
+[![Gmail](https://img.shields.io/badge/-saniyaanjum2408@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:saniyaanjum2408@gmail.com)
+[![GitHub Follow](https://img.shields.io/github/followers/Saniya-2408?label=Follow&style=social)](https://github.com/Saniya-2408)
 
-- 📫 How to reach me **saniyaanjum2408@gmail.com**
+</div>
 
-- ⚡ Fun fact **I believe learning never stops in tech ✨Small improvements in code make me happiest**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saniya-anjum-siddiqui-b77143343/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saniya-anjum-siddiqui-b77143343/" height="30" width="40" /></a>
+## 🚀 About Me
+I’m an enthusiastic developer with a passion for building meaningful projects that solve real problems.  
+I enjoy learning new technologies, improving my skills daily, and collaborating on open source.  
+
+- 🌱 I’m currently learning **React.js** and strengthening my **frontend skills**.  
+- 💬 Ask me about **HTML, CSS, JavaScript, Responsive UI**.  
+- 👯 I’m open to collaborating on web and full-stack projects.  
+- ⚡ Fun fact: **Small improvements in code make me happiest!**
+
+---
+
+## 🔧 Tech Stack & Tools
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🔭 Currently Working On
+💡 **ProNet – AI-Powered Professional Networking Platform**  
+An intelligent platform connecting professionals using smart recommendations and modern UI.
+
+---
+
+## 🌟 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saniya-2408&show_icons=true&theme=radical" alt="Saniya’s GitHub stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saniya-2408&show_icons=true&locale=en&layout=compact" alt="saniya-2408" /></p>
+## 📌 Featured Projects
+
+Here are some repositories that showcase my work and interests:
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **Decision-Garden** | Intelligent Task Prioritization Planner | HTML, CSS |
+| **Decision-Garden-Planner** | Interactive task planner UI | HTML, CSS |
+| *(add more here with links & short descriptions)* | | |
+
+---
+
+## 🧠 Learnings & Certifications
+
+🎓 MCA Student – Strong foundation in algorithms, problem solving, and software engineering.  
+📘 Continuously learning modern frameworks like **React**, **Node.js**, and cloud fundamentals.
+
+You can also add badges showing course completions using services like **Badge Readme Actions**. :contentReference[oaicite:1]{index=1}
+
+---
+
+## 💬 Let’s Connect!
+
+I’m always happy to connect with fellow developers, learners, and collaborators!
+
+- 💼 LinkedIn: https://linkedin.com/in/saniya-anjum-siddiqui-b77143343  
+- 📬 Email: saniyaanjum2408@gmail.com  
+- 🧑‍💻 GitHub: https://github.com/Saniya-2408  
+
+---
+
+## 📌 Fun & Personal Touch
+
+```markdown
+![Profile Visitor Count](https://komarev.com/ghpvc/?username=Saniya-2408&style=flat-square)
