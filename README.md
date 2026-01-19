@@ -30,15 +30,15 @@ Learning, building, and growing with code
   <a href="https://www.linkedin.com/in/saniya-anjum-siddiqui-b77143343/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="LinkedIn"
-      height="40"
-      width="40" />
+      height="42"
+      width="42" />
   </a>
 
   <a href="mailto:saniyaanjum2408@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
       alt="Gmail"
-      height="40"
-      width="40" />
+      height="42"
+      width="42" />
   </a>
 </p>
 
@@ -47,12 +47,13 @@ Learning, building, and growing with code
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Languages & Tools
 
-<p align="center">
+<!-- Animated scrolling icons -->
+<marquee behavior="scroll" direction="left" scrollamount="6">
   <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,css,git,html,java,js,mongodb,mysql,oracle,python,react,tailwind&theme=dark" />
-</p>
+</marquee>
 
 <p align="center">
-  <i>Clean • Consistent • Responsive • Modern</i>
+  <i>Modern • Animated • Responsive • Clean</i>
 </p>
 
 ---
@@ -65,12 +66,12 @@ Learning, building, and growing with code
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saniya-2408&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saniya-2408&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 <!-- ===================== MOTIVATION ===================== -->
 <h3 align="center">
-“First, solve the problem. Then, write the code.” — John Johnson
+“Learning to write programs stretches your mind and helps you think better.” — Bill Gates
 </h3>
