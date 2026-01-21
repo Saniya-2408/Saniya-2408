@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Welcome%20to%20My%20GitHub!%20👋&fontSize=40&fontAlignY=35&desc=I'm%20Saniya•%20Building%20the%20future%20one%20line%20of%20code%20at%20a%20time&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&animation=fadeIn&text=Hey%20there!%20👋&fontSize=44&fontAlignY=35&desc=I'm%20Saniya%20•%20Learning%20by%20building%20•%20Growing%20with%20code&descAlignY=60" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Saniya Anjum Siddiqui</h1>
@@ -57,6 +57,18 @@
 
 ---
 
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saniya-2408&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saniya-2408&theme=radical&no-frame=true&row=1&column=6&animation=true" />
+</p>
+
+---
+
 ## 📌 Featured Projects
 
 <p align="center">
@@ -72,14 +84,19 @@
 </p>
 
 ---
-## 📊 GitHub Stats
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saniya-2408&show_icons=true&theme=radical" />
-</p> -->
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saniya-2408&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saniya-2408&theme=radical&border_radius=10" />
 </p>
 
 ---
