@@ -61,7 +61,7 @@
 
 <p align="center">
 
-<a href="https://github.com/Saniya-2408/Decision-Garden">
+<a href="https://saniya-2408.github.io/Decision-Garden-Planner/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saniya-2408&repo=Decision-Garden&theme=radical" />
 </a>
 
