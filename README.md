@@ -115,9 +115,6 @@ Interactive web tool designed to help users visualize ideas and organize decisio
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saniya-2408&repo=Decision-Garden&theme=radical"/>
 </p> -->
 
----
-
-
 
 <!-- <p align="center">
 
@@ -127,7 +124,6 @@ Interactive web tool designed to help users visualize ideas and organize decisio
 
 </p> -->
 
----
 
 # 🔥 Contribution Streak
 
