@@ -61,12 +61,10 @@
 
 <p align="center">
 
-<!-- Decision Garden Planner -->
 <a href="https://saniya-2408.github.io/Decision-Garden-Planner/" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saniya-2408&repo=Decision-Garden-Planner&theme=radical" />
 </a>
 
-<!-- Decision Garden -->
 <a href="https://saniya-2408.github.io/Decision-Garden/" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saniya-2408&repo=Decision-Garden&theme=radical" />
 </a>
@@ -75,16 +73,16 @@
 
 ---
 
-## 🌐 Live Project Demos
+## 🌐 Live Project Previews
 
 <p align="center">
 
 <a href="https://saniya-2408.github.io/Decision-Garden-Planner/" target="_blank">
-  <img src="https://img.shields.io/badge/🌱 Decision Garden Planner-Live Demo-brightgreen?style=for-the-badge">
+  <img src="https://api.microlink.io/?url=https://saniya-2408.github.io/Decision-Garden-Planner/&screenshot=true&meta=false&embed=screenshot.url" width="400"/>
 </a>
 
 <a href="https://saniya-2408.github.io/Decision-Garden/" target="_blank">
-  <img src="https://img.shields.io/badge/🌿 Decision Garden-Live Demo-blue?style=for-the-badge">
+  <img src="https://api.microlink.io/?url=https://saniya-2408.github.io/Decision-Garden/&screenshot=true&meta=false&embed=screenshot.url" width="400"/>
 </a>
 
 </p>
@@ -94,21 +92,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saniya-2408&show_icons=true&theme=radical" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=saniya-2408&layout=compact&theme=radical" height="180"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=saniya-2408&show_icons=true&theme=radical" />
 </p>
 
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=saniya-2408&theme=radical&border_radius=5"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saniya-2408&layout=compact&theme=radical" />
 </p>
 
 ---
