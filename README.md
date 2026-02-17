@@ -59,32 +59,44 @@
 
 ## 📌 Featured Projects
 
+### 🌱 Decision Garden Planner
+
 <p align="center">
 
-<a href="https://saniya-2408.github.io/Decision-Garden-Planner/" target="_blank">
+<a href="https://github.com/Saniya-2408/Decision-Garden-Planner">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saniya-2408&repo=Decision-Garden-Planner&theme=radical" />
 </a>
 
-<a href="https://saniya-2408.github.io/Decision-Garden/" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saniya-2408&repo=Decision-Garden&theme=radical" />
+<a href="https://saniya-2408.github.io/Decision-Garden-Planner/" target="_blank">
+  <img src="https://api.microlink.io/?url=https://saniya-2408.github.io/Decision-Garden-Planner/&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark" width="500"/>
 </a>
 
 </p>
 
+<p align="center">
+  🔗 <a href="https://saniya-2408.github.io/Decision-Garden-Planner/" target="_blank"><b>Live Demo</b></a> |
+  💻 <a href="https://github.com/Saniya-2408/Decision-Garden-Planner" target="_blank"><b>Source Code</b></a>
+</p>
+
 ---
 
-## 🌐 Live Project Previews
+### 🌿 Decision Garden
 
 <p align="center">
 
-<a href="https://saniya-2408.github.io/Decision-Garden-Planner/" target="_blank">
-  <img src="https://api.microlink.io/?url=https://saniya-2408.github.io/Decision-Garden-Planner/&screenshot=true&meta=false&embed=screenshot.url" width="400"/>
+<a href="https://github.com/Saniya-2408/Decision-Garden">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saniya-2408&repo=Decision-Garden&theme=radical" />
 </a>
 
 <a href="https://saniya-2408.github.io/Decision-Garden/" target="_blank">
-  <img src="https://api.microlink.io/?url=https://saniya-2408.github.io/Decision-Garden/&screenshot=true&meta=false&embed=screenshot.url" width="400"/>
+  <img src="https://api.microlink.io/?url=https://saniya-2408.github.io/Decision-Garden/&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark" width="500"/>
 </a>
 
+</p>
+
+<p align="center">
+  🔗 <a href="https://saniya-2408.github.io/Decision-Garden/" target="_blank"><b>Live Demo</b></a> |
+  💻 <a href="https://github.com/Saniya-2408/Decision-Garden" target="_blank"><b>Source Code</b></a>
 </p>
 
 ---
