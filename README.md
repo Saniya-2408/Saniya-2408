@@ -1,110 +1,118 @@
+<!-- PREMIUM HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Welcome%20to%20My%20GitHub!%20👋&fontSize=40&fontAlignY=35&desc=I'm%20Saniya•%20Building%20the%20future%20one%20line%20of%20code%20at%20a%20time&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=230&section=header&text=Saniya%20Anjum%20Siddiqui&fontSize=42&fontAlignY=40&desc=Frontend%20Developer%20•%20Problem%20Solver%20•%20Future%20Software%20Engineer&descAlignY=60"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Saniya Anjum Siddiqui</h1>
+<!-- INTRO -->
+<h2 align="center">Hi 👋, I'm Saniya</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;Problem+Solver;Building+impactful+web+applications;Learning+React+and+Modern+Web+Tech" />
+Frontend Developer passionate about building clean, scalable, and user-friendly web applications.<br>
+Focused on learning modern technologies and solving real-world problems through code.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saniya-2408&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently building **ProNet – AI-Powered Professional Networking Platform**
-- 🌱 Learning **React.js & Modern Frontend Development**
-- 💡 Passionate about building **real-world useful web applications**
-- 💬 Ask me about **HTML, CSS, JavaScript, Frontend Development**
-- 📫 Email: **saniyaanjum2408@gmail.com**
-- ⚡ Fun fact: *I love improving UI and making clean user experiences*
-
----
-
-## 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/saniya-anjum-siddiqui-b77143343/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-  </a>
-
   <a href="mailto:saniyaanjum2408@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/saniya-anjum-siddiqui-b77143343/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
----
-
-## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,java,mysql,mongodb,git,aws&theme=dark" />
+  <img src="https://komarev.com/ghpvc/?username=saniya-2408&label=Profile%20Views&color=brightgreen&style=for-the-badge"/>
 </p>
 
 ---
 
-# 📌 Featured Projects
+# 🧠 Skills & Technologies
+
+### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java&theme=dark"/>
+</p>
+
+### ⚛️ Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark"/>
+</p>
+
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,aws,vscode&theme=dark"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 ---
 
 ## 🌱 Decision Garden Planner
 
-<p align="center">
+Web application that helps users organize and plan decisions clearly with a clean and interactive interface.
 
-<a href="https://github.com/Saniya-2408/Decision-Garden-Planner">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Saniya-2408&repo=Decision-Garden-Planner&theme=radical" />
-</a>
+### ✨ Key Features
 
-<a href="https://saniya-2408.github.io/Decision-Garden-Planner/">
-<img src="https://api.microlink.io/?url=https://saniya-2408.github.io/Decision-Garden-Planner/&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark" width="500"/>
-</a>
+- Interactive UI
+- Structured decision planning
+- Responsive design
+- User-friendly experience
 
-</p>
-
-### 🧠 Tech Stack Used
+### 🧠 Tech Stack
 
 <p>
-<img src="https://img.shields.io/badge/HTML-Structure-orange?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS-Styling-blue?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-Logic-yellow?style=for-the-badge&logo=javascript"/>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
 </p>
 
+### 🔗 Links
+
+- 🌐 Live Demo  
+  https://saniya-2408.github.io/Decision-Garden-Planner/
+
+- 💻 Source Code  
+  https://github.com/Saniya-2408/Decision-Garden-Planner
+
 <p align="center">
-🔗 <a href="https://saniya-2408.github.io/Decision-Garden-Planner/"><b>Live Demo</b></a> |
-💻 <a href="https://github.com/Saniya-2408/Decision-Garden-Planner"><b>Source Code</b></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Saniya-2408&repo=Decision-Garden-Planner&theme=radical"/>
 </p>
 
 ---
 
 ## 🌿 Decision Garden
 
-<p align="center">
+Interactive web tool designed to help users visualize ideas and organize decision workflows.
 
-<a href="https://github.com/Saniya-2408/Decision-Garden">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Saniya-2408&repo=Decision-Garden&theme=radical" />
-</a>
+### ✨ Key Features
 
-<a href="https://saniya-2408.github.io/Decision-Garden/">
-<img src="https://api.microlink.io/?url=https://saniya-2408.github.io/Decision-Garden/&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark" width="500"/>
-</a>
+- Clean UI
+- Interactive decision structure
+- Responsive layout
+- Fast and lightweight
 
-</p>
-
-### 🧠 Tech Stack Used
+### 🧠 Tech Stack
 
 <p>
-<img src="https://img.shields.io/badge/HTML-Structure-orange?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS-Styling-blue?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-Logic-yellow?style=for-the-badge&logo=javascript"/>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
 </p>
 
+### 🔗 Links
+
+- 🌐 Live Demo  
+  https://saniya-2408.github.io/Decision-Garden/
+
+- 💻 Source Code  
+  https://github.com/Saniya-2408/Decision-Garden
+
 <p align="center">
-🔗 <a href="https://saniya-2408.github.io/Decision-Garden/"><b>Live Demo</b></a> |
-💻 <a href="https://github.com/Saniya-2408/Decision-Garden"><b>Source Code</b></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Saniya-2408&repo=Decision-Garden&theme=radical"/>
 </p>
 
 ---
@@ -113,9 +121,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saniya-2408&show_icons=true&theme=radical&border_radius=10" height="165"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saniya-2408&show_icons=true&theme=radical&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=saniya-2408&layout=compact&theme=radical&border_radius=10" height="165"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniya-2408&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
 
@@ -124,17 +132,32 @@
 # 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=saniya-2408&theme=radical&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=saniya-2408&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-# 🌟 Developer Quote
+# 🎯 Current Focus
 
-<h3 align="center">
-"Great developers are built one project at a time."
-</h3>
+- Learning React.js deeply  
+- Building full-stack projects  
+- Improving problem solving skills  
+- Preparing for software engineering internships  
 
-<h3 align="center">
-Small steps every day lead to big results in code and in life...
-</h3>
+---
+
+# 💼 Career Goal
+
+To become a Software Engineer and contribute to building scalable, impactful products used by millions.
+
+---
+
+# 🌟 Quote
+
+<p align="center">
+Great developers are built by consistent learning and real-world project experience.
+</p>
+
+<p align="center">
+⭐ Always learning. Always building.
+</p>
