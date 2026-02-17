@@ -80,9 +80,9 @@ Web application that helps users organize and plan decisions clearly with a clea
 - 💻 Source Code  
   https://github.com/Saniya-2408/Decision-Garden-Planner
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saniya-2408&repo=Decision-Garden-Planner&theme=radical"/>
-</p>
+</p> -->
 
 ---
 
@@ -111,21 +111,21 @@ Interactive web tool designed to help users visualize ideas and organize decisio
 - 💻 Source Code  
   https://github.com/Saniya-2408/Decision-Garden
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saniya-2408&repo=Decision-Garden&theme=radical"/>
-</p>
+</p> -->
 
 ---
 
-# 📊 GitHub Analytics
 
-<p align="center">
+
+<!-- <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=saniya-2408&show_icons=true&theme=radical&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniya-2408&layout=compact&theme=radical&hide_border=true"/>
 
-</p>
+</p> -->
 
 ---
 
