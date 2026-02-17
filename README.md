@@ -61,12 +61,30 @@
 
 <p align="center">
 
-<a href="https://saniya-2408.github.io/Decision-Garden-Planner/">
+<!-- Decision Garden Planner -->
+<a href="https://saniya-2408.github.io/Decision-Garden-Planner/" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saniya-2408&repo=Decision-Garden-Planner&theme=radical" />
+</a>
+
+<!-- Decision Garden -->
+<a href="https://saniya-2408.github.io/Decision-Garden/" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saniya-2408&repo=Decision-Garden&theme=radical" />
 </a>
 
-<a href="https://github.com/Saniya-2408/Decision-Garden-Planner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saniya-2408&repo=Decision-Garden-Planner&theme=radical" />
+</p>
+
+---
+
+## 🌐 Live Project Demos
+
+<p align="center">
+
+<a href="https://saniya-2408.github.io/Decision-Garden-Planner/" target="_blank">
+  <img src="https://img.shields.io/badge/🌱 Decision Garden Planner-Live Demo-brightgreen?style=for-the-badge">
+</a>
+
+<a href="https://saniya-2408.github.io/Decision-Garden/" target="_blank">
+  <img src="https://img.shields.io/badge/🌿 Decision Garden-Live Demo-blue?style=for-the-badge">
 </a>
 
 </p>
@@ -76,7 +94,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saniya-2408&layout=compact&theme=radical" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=saniya-2408&show_icons=true&theme=radical" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=saniya-2408&layout=compact&theme=radical" height="180"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=saniya-2408&theme=radical&border_radius=5"/>
+
 </p>
 
 ---
