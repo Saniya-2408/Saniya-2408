@@ -127,11 +127,11 @@ Interactive web tool designed to help users visualize ideas and organize decisio
 
 # 🔥 Contribution Streak
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://streak-stats.demolab.com?user=saniya-2408&theme=radical&hide_border=true"/>
 </p>
 
----
+--- -->
 
 # 🎯 Current Focus
 
