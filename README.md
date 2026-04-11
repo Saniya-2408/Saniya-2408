@@ -124,8 +124,7 @@ Interactive web tool designed to help users visualize ideas and organize decisio
 
 </p> -->
 ---
-
-# 🔥 Contribution Streak
+<!--  Contribution Streak
 
 <!-- <p align="center">
 <img src="https://streak-stats.demolab.com?user=saniya-2408&theme=radical&hide_border=true"/>
