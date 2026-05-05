@@ -55,14 +55,14 @@ Focused on learning modern technologies and solving real-world problems through 
 
 ---
 
-## 🌱 Decision Garden Planner
+## 🌱 PulseMetrics
 
-Web application that helps users organize and plan decisions clearly with a clean and interactive interface.
+Real-Time Sales Intelligence Dashboard PulseMetrics is an interactive Business Intelligence dashboard
 
 ### ✨ Key Features
 
 - Interactive UI
-- Structured decision planning
+- Structured data visualization
 - Responsive design
 - User-friendly experience
 
@@ -75,10 +75,10 @@ Web application that helps users organize and plan decisions clearly with a clea
 ### 🔗 Links
 
 - 🌐 Live Demo  
-  https://saniya-2408.github.io/Decision-Garden-Planner/
+  https://saniya-2408.github.io/PulseMetrics/
 
 - 💻 Source Code  
-  https://github.com/Saniya-2408/Decision-Garden-Planner
+  https://github.com/Saniya-2408/PulseMetrics
 
 <!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saniya-2408&repo=Decision-Garden-Planner&theme=radical"/>
