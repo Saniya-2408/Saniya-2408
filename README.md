@@ -55,7 +55,7 @@ Focused on learning modern technologies and solving real-world problems through 
 
 ---
 
-## 🌱 PulseMetrics
+## 📑 PulseMetrics
 
 Real-Time Sales Intelligence Dashboard PulseMetrics is an interactive Business Intelligence dashboard
 
@@ -137,10 +137,10 @@ Welcome to the repository for my personal portfolio website! This site showcases
 
 ### ✨ Key Features
 
--Fully Responsive: Optimized for mobile, tablet, and desktop screens.
--Project Showcase: Interactive cards displaying my latest work with source code links.
--Contact Form: Direct integration with EmailJS / Formspree.
--Dark Mode: Easy toggle for a comfortable viewing experience.
+- Fully Responsive: Optimized for mobile, tablet, and desktop screens.
+- Project Showcase: Interactive cards displaying my latest work with source code links.
+- Contact Form: Direct integration with EmailJS / Formspree.
+- Dark Mode: Easy toggle for a comfortable viewing experience.
 
 ### 🧠 Tech Stack
 
