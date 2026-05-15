@@ -75,10 +75,10 @@ Real-Time Sales Intelligence Dashboard PulseMetrics is an interactive Business I
 ### 🔗 Links
 
 - 🌐 Live Demo  
-  https://saniya-2408.github.io/PulseMetrics/
+  https://saniya-2408.github.io/Pulse_Metrics/
 
 - 💻 Source Code  
-  https://github.com/Saniya-2408/PulseMetrics
+  https://github.com/Saniya-2408/Pulse_Metrics
 
 <!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saniya-2408&repo=Decision-Garden-Planner&theme=radical"/>
@@ -128,8 +128,33 @@ Interactive web tool designed to help users visualize ideas and organize decisio
 
 <!-- <p align="center">
 <img src="https://streak-stats.demolab.com?user=saniya-2408&theme=radical&hide_border=true"/>
+</p> 
+--- --->
+
+## 👩‍💻 Personal Portfolio
+
+Welcome to the repository for my personal portfolio website! This site showcases my projects, skills, and journey as a developer.
+
+### ✨ Key Features
+
+-Fully Responsive: Optimized for mobile, tablet, and desktop screens.
+-Project Showcase: Interactive cards displaying my latest work with source code links.
+-Contact Form: Direct integration with EmailJS / Formspree.
+-Dark Mode: Easy toggle for a comfortable viewing experience.
+
+### 🧠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
 </p>
 
+### 🔗 Links
+
+- 🌐 Live Demo  
+  https://saniya-2408.github.io/My_Portfolio/
+
+- 💻 Source Code  
+  https://github.com/Saniya-2408/My_Portfolio
 --- -->
 
 # 🎯 Current Focus
